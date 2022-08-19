@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\semak\\Desktop\\Учеба\\учеба GeekBrains\\Знакомство с языками программирования\\20220818_Семинар_1\\Example005\\Example005.csproj",
+      "projectUniqueName": "C:\\Users\\semak\\Desktop\\Учеба\\учеба GeekBrains\\Знакомство с языками программирования\\HomeWork\\HW1\\Ex1\\Example005.csproj",
       "projectName": "Example005",
-      "projectPath": "C:\\Users\\semak\\Desktop\\Учеба\\учеба GeekBrains\\Знакомство с языками программирования\\20220818_Семинар_1\\Example005\\Example005.csproj",
+      "projectPath": "C:\\Users\\semak\\Desktop\\Учеба\\учеба GeekBrains\\Знакомство с языками программирования\\HomeWork\\HW1\\Ex1\\Example005.csproj",
       "packagesPath": "C:\\Users\\semak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\semak\\Desktop\\Учеба\\учеба GeekBrains\\Знакомство с языками программирования\\20220818_Семинар_1\\Example005\\obj\\",
+      "outputPath": "C:\\Users\\semak\\Desktop\\Учеба\\учеба GeekBrains\\Знакомство с языками программирования\\HomeWork\\HW1\\Ex1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\semak\\AppData\\Roaming\\NuGet\\NuGet.Config"
