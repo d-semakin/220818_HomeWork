@@ -19,5 +19,4 @@ else if (num1 > num2)
         if (i % 2 == 0)
         System.Console.Write(i + " ");
     }
-else if (num1 == num2) 
-System.Console.WriteLine("Диапазон отсутствует.");
+else System.Console.WriteLine("Диапазон отсутствует.");
